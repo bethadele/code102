@@ -20,3 +20,4 @@ control L- clear
 cd - = go back to last directory
 !!- do command again
 history- history of commands during this session
+  
