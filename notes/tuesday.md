@@ -7,3 +7,5 @@ REPL
 = asignment
 == nonstrick comparison
 === strick comparison
+ functions
+ 
