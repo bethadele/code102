@@ -15,3 +15,10 @@ cancatonating- a number added with a string will transform the number to a strin
 double equal sign is checking for truthiness- comparison but not strict, triple equals is exact match, singe equals is assignment/definition
 
 use browser console for now, but you can add a console directly into atom.
+
+git log- most recent changes
+
+git checkout "branch name"
+
+
+ash
