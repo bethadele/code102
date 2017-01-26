@@ -19,6 +19,3 @@ use browser console for now, but you can add a console directly into atom.
 git log- most recent changes
 
 git checkout "branch name"
-
-
-ash
