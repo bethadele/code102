@@ -33,5 +33,10 @@ cmd | description
 :q | quit without saving
 :w | write changes without exiting
 :wq, :x, ZZ | write changes and quit
+:q! | force quit without saving
 
 Note that in many cases, there are a number of commands that do the same thing.
+
+d=delete
+dd=delete line
+dG=delete contents of file
