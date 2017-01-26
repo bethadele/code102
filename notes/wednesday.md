@@ -8,3 +8,5 @@ pull- fetch updates from remote, and merging
 In atom, hit control shift m to see markdown preview in atom
 
 vi- editor you use that is more powerful and interfaced with through terminal. can add vi plug in within atom, good to know basics.
+
+"touch" with "file name" creates an empty file in terminal
