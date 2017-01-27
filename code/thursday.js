@@ -54,9 +54,10 @@ var days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 
 // console.log('index 20: ' + days[20]);
 
 // TODO: DRY it up!
-// for (var i = 0; i < 7; i++) {
-//   console.log('index ' + i + ': ' + days[i]);
-// }
+for (var i = 0; i < days.length; i++) {
+  dayIndex = Math.floor(Math.random())
+  console.log('index ' + i + ': ' + days[i]);
+}
 
 
 // TODO: Replace the "7" in "i < 7" with the length of the array
