@@ -49,14 +49,29 @@ var days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 
 // console.log('index 0: ' + days[0]);
 // console.log('index 1: ' + days[1]);
 // console.log('index 2: ' + days[2]);
+// console.log('index 3:' + days[3]);
+// console.log('index 4: ' + days[4]);
+// console.log('index 5: ' + days[5]);
 // console.log('index 6: ' + days[6]);
 // console.log('index 7: ' + days[7]);
 // console.log('index 20: ' + days[20]);
 
 // TODO: DRY it up!
-// for (var i = 0; i < 7; i++) {
-//   console.log('index ' + i + ': ' + days[i]);
-// }
+// days.length
+
+var printRandomDays = function(numTimes) {
+  for (var i = 0; i < numTimes; i++) {
+    dayIndex = Math.floor(Math.random() * days.length);
+    console.log('index ' + dayIndex + ': ' + getDay(dayIndex));
+  }
+
+  return false;
+}
+var getDay = function(dayIndex) {
+  //console.log('index ' + dayIndex + ': ' + days[dayIndex]);
+  return days[dayIndex];
+}
+printRandomDays(5);
 
 
 // TODO: Replace the "7" in "i < 7" with the length of the array
