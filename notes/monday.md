@@ -1,9 +1,15 @@
-Make a change
-Make another change
-Do something else
-tra la la
+md - markdown
+cd - change directory
+Repository - collection of files
+GIT = software VCS
 
-here's another change
 
-more notes for a monday night!!!!
-monday night
+
+
+
+
+
+
+
+
+Making some changes to get saved
