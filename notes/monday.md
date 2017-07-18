@@ -1,4 +1,7 @@
-Make a change
+Monday Monday Monday
+understading .git
+
+
 Make another change
 Do something else
 tra la la
