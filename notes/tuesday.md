@@ -1,2 +1,2 @@
 # Tuesday notes
-* how to use vi
+* just some changes
