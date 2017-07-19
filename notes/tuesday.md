@@ -1,2 +1,3 @@
 # Tuesday notes
-* how to use vi
+* how to use vim
+ klk k k kj;lj 
