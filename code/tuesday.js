@@ -13,9 +13,9 @@ console.log('the day is: ' + day);
 var monday = 'monday';
 var tuesday = 'tuesday';
 var wednesday = 'wednesday';
-// console.log('the variable monday contains: ' + monday);
-// console.log('the variable tuesday contains: ' + tuesday);
-// console.log('the variable wednesday contains: ' + wednesday);
+ // console.log('the variable monday contains: ' + monday);
+ // console.log('the variable tuesday contains: ' + tuesday);
+ // console.log('the variable wednesday contains: ' + wednesday);
 
 monday = tuesday;
 tuesday = wednesday;
