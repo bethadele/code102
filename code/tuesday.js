@@ -33,7 +33,26 @@ var getTrue = function() {
     } while(input === false);
 }
 
-getTrue();
+//getTrue();
+
+function isNaN_wut() {
+
+    var input = "blah";
+    confirm(input);
+    confirm(isNaN(input));
+
+    input = 42;
+    confirm(input);
+    confirm(isNaN(input));
+    
+    input = "42";
+    confirm(input);
+    confirm(isNaN(input));
+    confirm(input);
+
+}
+
+isNaN_wut();
 
 
 // var day = 'Monday';
