@@ -1,3 +1,4 @@
+thursday
 function sayMyName () {
     consolelog('Hi, Beth');
 }
@@ -29,3 +30,6 @@ myRandomFunction()
     //returns: Code102
 
     //Calls the function
+
+change change change
+master

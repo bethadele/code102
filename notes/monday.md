@@ -1,6 +1,14 @@
+thursday
 These are my Monday class notes
 All about how to use Git
 Worlds are unfolding
+=======
+Making my first change AQH
+
+
+Make another change
+
+master
 tra la la
 
 Thank you to the awesome instructors
