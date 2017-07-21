@@ -1,9 +1,21 @@
-Make a change
-Make another change
-Do something else
-tra la la
 
-here's another change
+We will get into the habit of uploading everynight!
 
-more notes for a monday night!!!!
-monday night
+"add changes"
+
+git status
+git add -p
+
+git status
+git commit -m "Add Monday notes"
+
+git status
+git remote -v  
+
+git push origin master
+
+git status
+git add -p
+git status
+git commit -m "add Monday notes"
+
