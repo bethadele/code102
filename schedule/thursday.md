@@ -1,33 +1,19 @@
 # Thursday
 
-* 6:00pm - Git
- * Did you push your code last night?
- * Branch: git checkout -b feature/thursday
- * Add a new file: thursday.md
- * MERGE CONFLICTS!!!!
-  * Modify line 1 of README.md in feature/thursday
-  * Commit changes; checkout master; modify line 1 of README.md in master
-  * Look at history in master:
-   * git log
-   * git show [SHA]
-  * Look at history in feature/thursday:
-   * git checkout feature/thursday
-   * git log
-   * git show [SHA]
-  * Merge feature/thursday into master and look at merge conflict
-  * How to resolve a merge conflict
-* 6:30pm - Functions & console.log
- * Use [code/thursday.html](/code/thursday.html) and [code/thursday.js](/code/thursday.js)
- * Want to play with other forms of functions? Check out this [gist on the evolution of an IIFE](https://gist.github.com/bethadele/85621c52d9c454fdd258ec67e4279ea2)
-* 7:30pm - Prework
-* 8:00pm - Editing & Debugging with Chrome Browser Tools
- * *In Your Textbook:* JavaScript & jQuery (Duckett), pages 464 - 479
- * Editing HTML in place
- * Editing CSS in place
- * Basic JavaScript debugging
-  * What's a breakpoint?
-  * Step over / in / out
-  * "Continue"
-* 8:30pm - Recap, Q&A
+* 6:00pm - Git: Pull Request Prep
+  * Create a `thursday` branch
+  * Tonight we're going to do things a little bit differently
+  * Create a `notes/thursday-your-name.md` file and add it to the repo (e.g. `notes/thursday-beth.md`)
+  * Take notes in this file through the evening
+* 6:10pm - JavaScript: Control Flow & Chrome Browser Tools
+  * Use [code/thursday.html](/code/thursday.html) and [code/thursday.js](/code/thursday.js)
+* 7:30pm - Prework (you should be at least 80% complete by the end of class)
+* 8:15 - Git: Pull Requests
+  * Save and commit your work on your repo **in your feature branch** (don't merge to master)
+  * Push your work to your repo (`git push origin feature/thursday`)
+  * Now do a pull request from your repo's "Pull Request" page to the master branch of one of your classmate's repos
+  * By the end of the evening, everyone should have made a pull request **and** responded to a pull request
+  * Note that if you make changes in your branch (locally) and push (to your remote) before the pull request is accepted or closed, the pull request updates automagically
+* 8:45pm - Recap, Q&A
 
-[Back to main README](/README.md)
+[Back to main README](/README.md) | [Friday](/schedule/friday.md)
