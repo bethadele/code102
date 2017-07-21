@@ -13,15 +13,15 @@ console.log('the day is: ' + day);
 var monday = 'monday';
 var tuesday = 'tuesday';
 var wednesday = 'wednesday';
-// console.log('the variable monday contains: ' + monday);
-// console.log('the variable tuesday contains: ' + tuesday);
-// console.log('the variable wednesday contains: ' + wednesday);
+ console.log('the variable monday contains: ' + monday);
+ console.log('the variable tuesday contains: ' + tuesday);
+ console.log('the variable wednesday contains: ' + wednesday);
 
 monday = tuesday;
 tuesday = wednesday;
-// console.log('the variable monday contains: ' + monday);
-// console.log('the variable tuesday contains: ' + tuesday);
-// console.log('the variable wednesday contains: ' + wednesday);
+ console.log('the variable monday contains: ' + monday);
+ console.log('the variable tuesday contains: ' + tuesday);
+ console.log('the variable wednesday contains: ' + wednesday);
 
 var number = 1;
 var numberString = '1';
@@ -33,5 +33,5 @@ var numberString = '1';
 // number
 // numberString
 
-// console.log('the type of variable number is: ' + typeof number);
-// console.log('the type of variable numberString is: ' + typeof numberString);
+ console.log('the type of variable number is: ' + typeof number);
+ console.log('the type of variable numberString is: ' + typeof numberString);
