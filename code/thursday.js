@@ -58,8 +58,19 @@ var days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 
 //   console.log('index ' + i + ': ' + days[i]);
 // }
 
-
+// What if we want to iterate over the Klingon days?
+// days = [
+//  'DaSjaj',
+//  'povjaj',
+//  'ghItlhjaj',
+//  'loghjaj',
+//  'buqjaj',
+//  'ghInjaj'
+// ];
 // TODO: Replace the "7" in "i < 7" with the length of the array
+// for (var i = 0; i < 7; i++) {
+//   console.log('index ' + i + ': ' + days[i]);
+// }
 
 
 // TODO: On each iteration, use our randomly generated dayNumber
