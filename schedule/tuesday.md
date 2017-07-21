@@ -14,9 +14,9 @@
   * Make sure you check out the new branch (`git checkout feature/tuesday`) before continuing
 * 6:15pm - Working at the Command Line
   * Navigating at the command line
-    * `cd` = Change Directory (combine with `$`, `.`, `..`)
+    * `cd` = Change Directory (combine with `~`, `..`)
     * `ls` = LiSt resources (combine with flags like `-l`, `-a`, `-la`)
-    * `pwd` = Print Working Directory Intro
+    * `pwd` = Present Working Directory
     * `cp` = CoPy resource
     * `mv` = MoVe resource (be careful with this one)
     * `rm` = ReMove resource (be very, VERY careful with this one!)

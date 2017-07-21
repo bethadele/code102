@@ -1,4 +1,5 @@
 # Tuesday notes
+
 var day = 'Monday';
 console.log('the day is: ' + day);
 
@@ -36,3 +37,10 @@ var numberString = '1';
 
 // console.log('the type of variable number is: ' + typeof number);
 // console.log('the type of variable numberString is: ' + typeof numberString);
+=======
+* Student questions:
+  * for loops vs. for/in loops (will discuss Wednesday)
+  * syntax & resources (Duckett book, MDN)
+  * case sensitivity in boolean comparisons
+
+
